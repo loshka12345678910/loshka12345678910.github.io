@@ -1,0 +1,19 @@
+.big-photo{
+    background-image: url(banner.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: aliceblue;
+    margin-bottom: 50px;
+}
+img{
+    width: 100%;
+}
+.hut{
+    background-image:linear-gradient(rgba(0, 0, 255, 0.294),rgba(255, 0, 0, 0.268)),url(the-hut-bg.png);
+    height: 300px;
+    color: bisque;
+}
+.hut h2{
+    font-size: 3.5rem;
+}
